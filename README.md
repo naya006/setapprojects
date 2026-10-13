@@ -11,9 +11,15 @@ Features
 - Multiple events at once. Users can create and take part in as many events as they like. The dashboard scrolls to fit them all.
 - Secure data storage and access controls. User and guest information is stored securely, and access to guest data is controlled.
 
-Prerequisites
-Git
-The Dart/Flutter SDK
+Packages needed:
+  firebase_core: ^2.26.0 or above
+  firebase_auth: ^4.17.7 or above
+  cloud_firestore: ^4.15.7 or above
+  firebase_messaging: ^14.7.18 or above
+  firebase_database: ^10.0.14 or above
+  cupertino_icons: ^1.0.2 or above
+
+
 
 
 Testing
